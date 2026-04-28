@@ -1,0 +1,11 @@
+openai/Ollama (desired LLM)
+chromadb
+pandas
+tiktoken
+python-dotenv
+sentence-transformers
+pyyaml
+langchain
+langchain-community
+langchain-text-splitters
+rank_bm25
