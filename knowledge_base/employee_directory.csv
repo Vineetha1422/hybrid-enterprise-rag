@@ -1,0 +1,31 @@
+employee_id,name,role,team,manager,email,active_project
+EMP001,Sarah Mitchell,CEO,Leadership,,sarah.mitchell@xyzanalytics.com,InsightDash
+EMP002,James Okafor,CTO,Leadership,EMP001,james.okafor@xyzanalytics.com,StreamAPI
+EMP003,Priya Nair,VP of Product,Product,EMP001,priya.nair@xyzanalytics.com,InsightDash
+EMP004,Daniel Cruz,VP of Engineering,Engineering,EMP002,daniel.cruz@xyzanalytics.com,DataLake Pro
+EMP005,Laura Hensley,Head of Data,Data,EMP002,laura.hensley@xyzanalytics.com,DataLake Pro
+EMP006,Marcus Webb,HR Director,HR,EMP001,marcus.webb@xyzanalytics.com,InsightDash
+EMP007,Aisha Patel,DevOps Lead,DevOps,EMP002,aisha.patel@xyzanalytics.com,StreamAPI
+EMP008,Tom Nguyen,Senior Software Engineer,Engineering,EMP004,tom.nguyen@xyzanalytics.com,InsightDash
+EMP009,Elena Romero,Software Engineer,Engineering,EMP004,elena.romero@xyzanalytics.com,InsightDash
+EMP010,Kevin Zhao,Software Engineer,Engineering,EMP004,kevin.zhao@xyzanalytics.com,StreamAPI
+EMP011,Fatima Al-Hassan,Senior Software Engineer,Engineering,EMP004,fatima.alhassan@xyzanalytics.com,StreamAPI
+EMP012,Ryan Park,Software Engineer,Engineering,EMP004,ryan.park@xyzanalytics.com,DataLake Pro
+EMP013,Nadia Kowalski,Data Engineer,Data,EMP005,nadia.kowalski@xyzanalytics.com,DataLake Pro
+EMP014,Samuel Osei,Data Scientist,Data,EMP005,samuel.osei@xyzanalytics.com,InsightDash
+EMP015,Mei Lin,Senior Data Engineer,Data,EMP005,mei.lin@xyzanalytics.com,DataLake Pro
+EMP016,Carlos Vega,Data Analyst,Data,EMP005,carlos.vega@xyzanalytics.com,StreamAPI
+EMP017,Ingrid Svensson,Product Manager,Product,EMP003,ingrid.svensson@xyzanalytics.com,InsightDash
+EMP018,Ben Adeyemi,Product Manager,Product,EMP003,ben.adeyemi@xyzanalytics.com,StreamAPI
+EMP019,Zoe Hartman,Product Designer,Product,EMP003,zoe.hartman@xyzanalytics.com,InsightDash
+EMP020,Aaron Tilly,Junior Product Designer,Product,EMP003,aaron.tilly@xyzanalytics.com,DataLake Pro
+EMP021,Chloe Brennan,HR Business Partner,HR,EMP006,chloe.brennan@xyzanalytics.com,InsightDash
+EMP022,Derek Fountaine,Talent Acquisition Specialist,HR,EMP006,derek.fountaine@xyzanalytics.com,InsightDash
+EMP023,Yuki Tanaka,HR Coordinator,HR,EMP006,yuki.tanaka@xyzanalytics.com,DataLake Pro
+EMP024,Omar Shaikh,DevOps Engineer,DevOps,EMP007,omar.shaikh@xyzanalytics.com,StreamAPI
+EMP025,Lucia Ferreira,Senior DevOps Engineer,DevOps,EMP007,lucia.ferreira@xyzanalytics.com,DataLake Pro
+EMP026,Raj Iyer,Site Reliability Engineer,DevOps,EMP007,raj.iyer@xyzanalytics.com,StreamAPI
+EMP027,Hannah Brooks,Cloud Infrastructure Engineer,DevOps,EMP007,hannah.brooks@xyzanalytics.com,DataLake Pro
+EMP028,Tyler Moss,QA Engineer,Engineering,EMP004,tyler.moss@xyzanalytics.com,InsightDash
+EMP029,Simone Dupont,Senior Data Scientist,Data,EMP005,simone.dupont@xyzanalytics.com,StreamAPI
+EMP030,Arjun Mehta,Backend Engineer,Engineering,EMP004,arjun.mehta@xyzanalytics.com,DataLake Pro
